@@ -24,5 +24,5 @@
 
 ## Features and complaints
 - As you may notice all categorical data in original dataset were encoded by using Embedded Encoding, original net for encoding was not saved.
-- BCDNeuralNetwork.py posses much more unused methods and attributes, that were not used in final programs.
+- BCDNeuralNetwork.py posses much more usefull methods and attributes, that did not appear in final program.
 - If you want to use original dataset or my datasets, please pay attention to white spaces, since some columns might have an extra whitespace.
